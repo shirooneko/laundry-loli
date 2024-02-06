@@ -24,7 +24,7 @@ if($_SESSION){
 
 
 
-$conn = mysqli_connect('localhost','id20056048_root','Laundry_2704','id20056048_db_laundry');
+$conn = mysqli_connect('localhost','root','','db_laundry');
 
 
 
